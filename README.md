@@ -4,7 +4,7 @@
 
 > 👋⚡ I m in Tangshan
 
-> 🤔✿ﾟ This is my open source project, welcome to visit. [react-admin-plus](https://github.com/qisi007/react-admin-plus)
+> 🤔🍓 This is my open source project, welcome to visit. [react-admin-plus](https://github.com/qisi007/react-admin-plus)
 
 > 😛👉 This is my website, welcome to visit too. [Let s go](https://www.liuguisheng.vip/)
 
