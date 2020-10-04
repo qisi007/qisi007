@@ -1,4 +1,4 @@
-# Hi! I m LiuGuisheng
+# Hi, I m LiuGuisheng!
 
 > 😄💻 I m a developer for front.
 
