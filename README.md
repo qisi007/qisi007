@@ -2,7 +2,7 @@
 
 > 😄💻 I m a developer for front.
 
-> 👋⚡ I m in Tangshan.
+> 🐱👋 I m in Tangshan.
 
 > 🤔🍓 This is my open source project, welcome to visit. [react-admin-plus](https://github.com/qisi007/react-admin-plus)
 
