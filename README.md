@@ -8,9 +8,12 @@
 
 > 😛👉 This is my website, welcome to visit too. [Let s go](https://www.liuguisheng.vip/)
 
+
+
+<h2> Welcome to follow my wechat official account</h2>
+
+<img src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f20515e1-37e5-4b42-8f7d-454ec2a98cdd/535c6858-8577-4aca-88bd-89b5a7acfaef.jpg">
+
 <h2>❤️I love coding just like love my girl friend.&nbsp;🖊️</h2>
-
-[![Coco's github stats](https://github-readme-stats.vercel.app/api?username=qisi007&hide=contribs,prs&count_private=true&show_icons=true&&bg_color=30,40941c,cb1597&title_color=fff&text_color=fff&icon_color=fc0)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
