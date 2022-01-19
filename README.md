@@ -1,16 +1,12 @@
-# Hi, I m LiuGuisheng!
+# 大家好，我叫刘贵生!
 
-> 😄💻 I m a developer for front.
+> 😄 我是一名前端，来自河北唐山.
 
-> 😳👋 I m in Tangshan.
+> 🤔 这是我一直维护的开源项目，欢迎访问. [react-admin-plus](https://www.liuguisheng.vip/react-admin-plus/#/login)
 
-> 🤔🍓 This is my open source project, welcome to visit. [react-admin-plus](https://www.liuguisheng.vip/react-admin-plus/#/login)
+> 😛 这是我的个人博客主页. [Let s go](https://www.liuguisheng.vip/)
 
-> 😛👉 This is my website, welcome to visit too. [Let s go](https://www.liuguisheng.vip/)
-
-
-
-<h2> Welcome to follow my wechat official account. You can get many free learning resources</h2>
+> 👉 欢迎关注我的个人公众号，不定期分享一些技术博客，更有海量资源免费下载.
 
 <img src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f20515e1-37e5-4b42-8f7d-454ec2a98cdd/535c6858-8577-4aca-88bd-89b5a7acfaef.jpg">
 
