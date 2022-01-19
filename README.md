@@ -8,7 +8,7 @@
 
 > 👉 欢迎关注我的个人公众号，不定期分享一些技术博客，更有海量资源免费下载.
 
-<img src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f20515e1-37e5-4b42-8f7d-454ec2a98cdd/535c6858-8577-4aca-88bd-89b5a7acfaef.jpg">
+<img src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f20515e1-37e5-4b42-8f7d-454ec2a98cdd/535c6858-8577-4aca-88bd-89b5a7acfaef.jpg" style="width: 200px">
 
 <h2>❤️I love coding just like love my girl friend.&nbsp;🖊️</h2>
 
