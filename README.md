@@ -4,7 +4,7 @@
 
 > 🤔 这是我一直维护的开源项目，欢迎访问. [react-admin-plus](http://124.222.234.229/react/#/login)
 
-> 😛 这是我的个人博客主页. [Let s go](http://liuguisheng.vip/)
+> 😛 这是我的个人博客主页. [Let s go](https://qisi007.github.io/)
 
 > 👉 欢迎关注我的个人公众号，不定期分享一些技术博客，更有海量资源免费下载.
 
