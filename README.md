@@ -1,12 +1,12 @@
-# 大家好，我叫刘贵生!
+# Hi, I'm Liu Guisheng!
 
-> 😄 我是一名前端，来自河北唐山.
+> 😄 I'm a front worker from Tangshan, Hebei.
 
-> 🤔 这是我一直维护的开源项目，欢迎访问. [react-admin-plus](https://qisi007.github.io/react-admin-plus/#/login)
+> 🤔 This is an open source project that I have been maintaining. Welcome to visit. [react-admin-plus](https://qisi007.github.io/react-admin-plus/#/login)
 
-> 😛 这是我的个人博客主页. [Let s go](https://qisi007.github.io/)
+> 😛 This is my personal blog homepage. [Let s go](https://qisi007.github.io/)
 
-> 👉 欢迎关注我的个人公众号，不定期分享一些技术博客，更有海量资源免费下载.
+> 👉 Welcome to follow my personal official account, share some technical blogs irregularly, and download massive resources for free.
 
 <img src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f20515e1-37e5-4b42-8f7d-454ec2a98cdd/535c6858-8577-4aca-88bd-89b5a7acfaef.jpg" style="width: 200px">
 
