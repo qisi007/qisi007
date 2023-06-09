@@ -6,7 +6,7 @@
 
 > 😛 This is my personal blog homepage. [Let s go](https://qisi007.github.io/)
 
-> 👉 Welcome to follow my personal official account, share some technical blogs irregularly, and download massive resources for free.
+> 👇 Welcome to experience the fishing mini program.
 
 <img src="https://mp-0421f619-cbb4-4191-a37b-c9ef96e4ec23.cdn.bspapp.com/cloudstorage/448bb9b5-eb51-4bd7-b03e-9bc007f84333.jpg" style="width: 200px">
 
