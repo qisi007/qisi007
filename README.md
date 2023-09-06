@@ -8,7 +8,7 @@
 
 > 👇 Welcome to experience the fishing mini program.
 
-<img src="https://mp-0421f619-cbb4-4191-a37b-c9ef96e4ec23.cdn.bspapp.com/cloudstorage/448bb9b5-eb51-4bd7-b03e-9bc007f84333.jpg" style="width: 200px">
+<img src="https://mp-0421f619-cbb4-4191-a37b-c9ef96e4ec23.cdn.bspapp.com/soup/img/gongzhonghao-er.jpg" style="width: 200px">
 
 <h2>❤️I love coding just like love my girl friend.&nbsp;🖊️</h2>
 
